@@ -1,12 +1,12 @@
 body {
-  background-color: #FAD763;
+  background-color: #fff;
   font-family: sans-serif;
   height: 100%;
   margin: 0;
   overflow: hidden;
   padding: 0;
+  color: #E36E40;
 }
-
   body ul {
     display: flex;
     flex-direction: row;
@@ -14,13 +14,14 @@ body {
     list-style: none;
     margin: 2em 0;
     padding: 0;
-  }
-
+}
   body li {
       margin: .5em;
       text-align: center;
     }
-  
+
+
+
 small {
   display: block;
   font-weight: 600;
